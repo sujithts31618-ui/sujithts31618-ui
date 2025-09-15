@@ -22,18 +22,10 @@
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujithts31618-ui&show_icons=true&theme=radical)  
-
-## 📈 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujithts31618-ui&layout=compact&theme=radical)  
-
----
-
 ## 🌐 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/sujith-siddarth-514830208/)  
-- [Portfolio](https://sujithts31618-ui.github.io)  
-- [Instagram](https://www.instagram.com/__sujith_h_siddarth)  
+- [Portfolio](https://sujithts31618-ui.github.io/sujithts31618.github.io/)  
+- [Instagram](https://www.instagram.com/___sujith_siddarth_?igsh=MW96aDY1eTg1cHBjaQ==)  
 
 ---
 ✨ *“Data is the new oil, but visualization is the spark that makes it valuable.”*
