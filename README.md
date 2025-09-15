@@ -1,4 +1,4 @@
-# Hi there, I’m Sujith TS 👋  
+# Hi there, I’m Sujith Siddarth 👋  
 
 💡 A passionate **Power BI Developer** with a knack for turning raw data into actionable insights.  
 📊 Certified **Microsoft PL-300 (Power BI Data Analyst Associate)**.  
