@@ -1,5 +1,7 @@
 # Hi there, I’m Sujith Siddarth 👋  
 
+![Dashboard](https://raw.githubusercontent.com/sujithts31618-ui/sujithts31618-ui/main/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-picture-image_3704909.jpg
+
 💡 A passionate **Power BI Developer** with a knack for turning raw data into actionable insights.  
 📊 Certified **Microsoft PL-300 (Power BI Data Analyst Associate)**.  
 📊 Certified **Microsoft DP-900 (Azure Data Fundamentals Associate)**.  
