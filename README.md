@@ -106,6 +106,10 @@
 [![PL-300](https://github.com/sujithts31618-ui/sujithts31618-ui/blob/main/assets/PL-300-badge.png)](https://www.credly.com/badges/your-pl300-badge-link)  
 [![DP-900](https://github.com/sujithts31618-ui/sujithts31618-ui/blob/main/assets/DP-900-badge.png)](https://www.credly.com/badges/your-dp900-badge-link)
 
+
+
+
+
 ---
 
 
@@ -113,3 +117,10 @@
 
 [<img src="https://github.com/sujithts31618-ui/sujithts31618-ui/blob/main/assets/PL-300.png" width="120"/>](https://www.credly.com/badges/your-pl300-badge-link)
 [<img src="https://github.com/sujithts31618-ui/sujithts31618-ui/blob/main/assets/DP-900.png" width="120"/>](https://www.credly.com/badges/your-dp900-badge-link)
+
+
+
+## 🏆 Certifications  
+
+[<img src="https://images.credly.com/size/340x340/images/8e6d92fb-44b4-4c50-b889-cd12b2774e9f/Power_BI_Data_Analyst_Associate.png" width="120"/>](https://www.credly.com/badges/your-pl300-badge-link)  
+[<img src="https://images.credly.com/size/340x340/images/70eb1e3a-38a4-4b1f-89da-7d839a0e0f8f/Azure_Data_Fundamentals.png" width="120"/>](https://www.credly.com/badges/your-dp900-badge-link)
