@@ -107,3 +107,9 @@
 [![DP-900](https://github.com/sujithts31618-ui/sujithts31618-ui/blob/main/assets/DP-900-badge.png)](https://www.credly.com/badges/your-dp900-badge-link)
 
 ---
+
+
+## 🏆 Certifications  
+
+[<img src="https://github.com/sujithts31618-ui/sujithts31618-ui/blob/main/assets/PL-300.png" width="120"/>](https://www.credly.com/badges/your-pl300-badge-link)
+[<img src="https://github.com/sujithts31618-ui/sujithts31618-ui/blob/main/assets/DP-900.png" width="120"/>](https://www.credly.com/badges/your-dp900-badge-link)
