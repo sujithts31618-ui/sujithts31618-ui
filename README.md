@@ -97,6 +97,13 @@
 ---
 
 ## ✨ Quote of the Day  
-> *“Data is the new oil, but visualization is the spark that makes it valuable.”*  
+> *“Data is the new oil, but visualization is the spark that makes it valuable.”*
+
+
+
+## 🏆 Certifications  
+
+[![PL-300](https://github.com/sujithts31618-ui/sujithts31618-ui/blob/main/assets/PL-300-badge.png)](https://www.credly.com/badges/your-pl300-badge-link)  
+[![DP-900](https://github.com/sujithts31618-ui/sujithts31618-ui/blob/main/assets/DP-900-badge.png)](https://www.credly.com/badges/your-dp900-badge-link)
 
 ---
