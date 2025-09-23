@@ -1,7 +1,7 @@
 # Hi there, I’m Sujith Siddarth 👋  
 
 <p align="center">
-  <img src="https://github.com/sujithts31618-ui/sujithts31618-ui/blob/main/IMG_20250924_050127.png" alt="Banner" width="80%" />
+  <img src="https://github.com/sujithts31618-ui/sujithts31618-ui/blob/main/IMG_20250924_050127.png" alt="Banner" width="100%" />
 </p>
 
 
