@@ -37,3 +37,6 @@
 ---
 ✨ *“Data is the new oil, but visualization is the spark that makes it valuable.”*
 
+<p align="center">
+  <img src="https://github.com/sujithts31618-ui/sujithts31618-ui/blob/main/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-picture-image_3704909.jpg" alt="Banner" width="80%" />
+</p>
