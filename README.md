@@ -18,7 +18,7 @@
 🌱 Currently learning **Advanced DAX**.  
 🚀 Excited about solving business problems through **data visualization, analytics**.  
 
----
+
 
 # 🏅 Awards & Recognitions  
 
@@ -26,22 +26,23 @@
 - **Star of the Month** – Awarded at Tata Play Limited  
 - **Special Initiative Award** – Awarded at Tata Play Limited
 
----
+
 
 # 🔧 Skills & Tools  
+
 - **Power BI**: Data Modeling, DAX, Row-Level Security, KPI Dashboards, Schedule Refreshing 
 - **SQL**: Queries, Joins  
 - **Excel**: Pivot Tables, Power Query, Conditional formatting, Concatenation etc
 - **Power Automate**: Automated cloud flow
 
----
+
 
 # 💼 Work Experience  
 
 **Power BI Developer** – Tata Consultancy Services, Whitefield, Bangalore  
 *December 2021 – Present*  
 
----
+
 
 # 📂 Featured Projects   
 
@@ -52,7 +53,7 @@
 | Bike Sales Analysis | Comprehensive sales analysis with visuals | [View Project](https://github.com/sujithts31618-ui/Power_BI_Bike_sales) |
 
 
----
+
 
 # 🌐 Connect with Me  
 - 📧 **Email**: sujithsiddarth243@gmail.com  
