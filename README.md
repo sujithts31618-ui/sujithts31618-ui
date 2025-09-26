@@ -2,31 +2,6 @@
   <span class="fade-text">Hi there, I'm <strong>Sujith Siddarth 👋</strong></span>
 </p>
 
-<style>
-.fade-text {
-  font-family: 'Fira Code', monospace;
-  font-size: 60px; /* Increased text size */
-  font-style: italic; /* Slant style */
-  color: #FF4500; /* New color - OrangeRed */
-  animation: fadeInOut 3s infinite; /* Fade in/out animation */
-}
-
-@keyframes fadeInOut {
-  0% { opacity: 0; }
-  50% { opacity: 1; }
-  100% { opacity: 0; }
-}
-</style>
-
-<p align="center">
-  <span class="fade-text">Hi there, I'm <strong>Sujith Siddarth 👋</strong></span>
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF5733&width=600&lines=Hi+there,+I'm+Sujith+Siddarth+%F0%9F%91%8B" alt="Typing Animation"/>
-</p>
-
 <p align="center">
   <img src="https://github.com/sujithts31618-ui/sujithts31618-ui/blob/main/IMG_20250924_050127.png" alt="Banner" width="100%" />
 </p>
