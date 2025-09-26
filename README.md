@@ -1,4 +1,4 @@
-<p align="center">
+# <p align="center">
   <span class="fade-text">Hi there, I'm <strong>Sujith Siddarth 👋</strong></span>
 </p>
 
