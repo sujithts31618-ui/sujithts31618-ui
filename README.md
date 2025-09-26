@@ -20,6 +20,14 @@
 
 ---
 
+## 🏅 Awards & Recognitions  
+
+- **Contextual Master** – Recognized at Tata Consultancy Services  
+- **Star of the Month** – Awarded at Tata Play Limited  
+- **Special Initiative Award** – Awarded at Tata Play Limited
+
+---
+
 ## 🔧 Skills & Tools  
 - **Power BI**: Data Modeling, DAX, Row-Level Security, KPI Dashboards, Schedule Refreshing 
 - **SQL**: Queries, Joins  
