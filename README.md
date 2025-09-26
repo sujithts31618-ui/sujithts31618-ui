@@ -20,7 +20,7 @@
 
 ---
 
-## 🏅 Awards & Recognitions  
+# 🏅 Awards & Recognitions  
 
 - **Contextual Master** – Recognized at Tata Consultancy Services  
 - **Star of the Month** – Awarded at Tata Play Limited  
@@ -28,7 +28,7 @@
 
 ---
 
-## 🔧 Skills & Tools  
+# 🔧 Skills & Tools  
 - **Power BI**: Data Modeling, DAX, Row-Level Security, KPI Dashboards, Schedule Refreshing 
 - **SQL**: Queries, Joins  
 - **Excel**: Pivot Tables, Power Query, Conditional formatting, Concatenation etc
@@ -36,14 +36,14 @@
 
 ---
 
-## 💼 Work Experience  
+# 💼 Work Experience  
 
 **Power BI Developer** – Tata Consultancy Services, Whitefield, Bangalore  
 *December 2021 – Present*  
 
 ---
 
-## 📂 Featured Projects   
+# 📂 Featured Projects   
 
 
 | Project | Description | Link |
