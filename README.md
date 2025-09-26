@@ -71,4 +71,6 @@
 </p>
  
 ---
+
+![Awards & Recognitions](https://img.shields.io/badge/🏅%20Awards%20&%20Recognitions-00FFFF?style=for-the-badge&logo=&logoColor=white)
 <p align="left" style="color:#00FFFF; font-size:24px; font-weight:bold;">🏅 Awards & Recognitions</p>
