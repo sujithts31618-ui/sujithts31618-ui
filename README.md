@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/sujithts31618-ui/sujithts31618-ui/blob/main/IMG_20250924_050127.png" alt="Banner" width="100%" />
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=600&lines=Always+Learning+%7C+Always+Building+%7C+Always+Sharing!)](https://github.com/sujithts31618-ui)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&size=24&center=true&width=600&lines=Always+Learning+%7C+Always+Building+%7C+Always+Sharing)](https://github.com/sujithts31618-ui)
 
 💡 A passionate **Power BI Developer** with a knack for turning raw data into actionable insights.  
 📊 Certified **Microsoft PL-300 (Power BI Data Analyst Associate)**.  
