@@ -1,4 +1,10 @@
 # Hi there, I’m Sujith Siddarth 👋  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&width=500&lines=Hi+there,+I'm+Sujith+Siddarth+%F0%9F%91%8B" alt="Blinking Text"/>
+</p>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&width=500&lines=Hi+there,+I'm+Sujith+Siddarth+%F0%9F%91%8B" alt="Typing SVG"/>
 </p>
