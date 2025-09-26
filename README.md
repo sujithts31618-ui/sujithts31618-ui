@@ -28,6 +28,13 @@
 
 ---
 
+## 💼 Work Experience  
+
+**Power BI Developer** – Tata Consultancy Services, Whitefield, Bangalore  
+*December 2021 – Present*  
+
+---
+
 ## 📂 Featured Projects   
 - 📌 [HR Analytics Dashboard](https://github.com/sujithts31618-ui/Power_BI_HR_Analytics_Dashboard)  
 - 📌 [Bike Sales Analysis](https://github.com/sujithts31618-ui/Power_BI_Bike_sales)  
