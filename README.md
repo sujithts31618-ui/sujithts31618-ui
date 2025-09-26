@@ -36,8 +36,13 @@
 ---
 
 ## 📂 Featured Projects   
-- 📌 [HR Analytics Dashboard](https://github.com/sujithts31618-ui/Power_BI_HR_Analytics_Dashboard)  
-- 📌 [Bike Sales Analysis](https://github.com/sujithts31618-ui/Power_BI_Bike_sales)  
+
+
+| Project | Description | Link |
+|---------|-------------|------|
+| HR Analytics Dashboard | HR insights with interactive KPI dashboards | [View Project](https://github.com/sujithts31618-ui/Power_BI_HR_Analytics_Dashboard) |
+| Bike Sales Analysis | Comprehensive sales analysis with visuals | [View Project](https://github.com/sujithts31618-ui/Power_BI_Bike_sales) |
+
 
 ---
 
