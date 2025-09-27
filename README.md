@@ -121,4 +121,53 @@
   </span>
 
 </p>
+
+
+## 🚀 Tools & Technologies
+
+<p align="center" style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+
+  <span style="text-align: center;">
+    <div style="background-color:#F2C811; border-radius:50%; width:60px; height:60px; display:flex; justify-content:center; align-items:center; margin:auto;">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="35"/>
+    </div>
+    <sub><b>Power BI</b></sub>
+  </span>
+
+  <span style="text-align: center;">
+    <div style="background-color:#FF0000; border-radius:50%; width:60px; height:60px; display:flex; justify-content:center; align-items:center; margin:auto;">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/oracle.svg" width="35"/>
+    </div>
+    <sub><b>Oracle SQL</b></sub>
+  </span>
+
+  <span style="text-align: center;">
+    <div style="background-color:#29B5E8; border-radius:50%; width:60px; height:60px; display:flex; justify-content:center; align-items:center; margin:auto;">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="35"/>
+    </div>
+    <sub><b>Snowflake</b></sub>
+  </span>
+
+  <span style="text-align: center;">
+    <div style="background-color:#217346; border-radius:50%; width:60px; height:60px; display:flex; justify-content:center; align-items:center; margin:auto;">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" width="35"/>
+    </div>
+    <sub><b>Excel</b></sub>
+  </span>
+
+  <span style="text-align: center;">
+    <div style="background-color:#4479A1; border-radius:50%; width:60px; height:60px; display:flex; justify-content:center; align-items:center; margin:auto;">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg" width="35"/>
+    </div>
+    <sub><b>MySQL</b></sub>
+  </span>
+
+  <span style="text-align: center;">
+    <div style="background-color:#CC2927; border-radius:50%; width:60px; height:60px; display:flex; justify-content:center; align-items:center; margin:auto;">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" width="35"/>
+    </div>
+    <sub><b>Paginated Reports</b></sub>
+  </span>
+
+</p>
     
