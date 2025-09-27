@@ -28,6 +28,36 @@
 
 # 🔧 Skills & Tools  
 
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/power-bi.png" width="50"/><br>
+      <sub>Power BI</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/oracle-logo.png" width="50"/><br>
+      <sub>Oracle SQL</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50"/><br>
+      <sub>Snowflake</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50"/><br>
+      <sub>Excel</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/mysql/4479A1" width="50"/><br>
+      <sub>MySQL</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="50"/><br>
+      <sub>Paginated Reports</sub>
+    </td>
+  </tr>
+</table>
+
 - **Power BI**: Data Modeling, DAX, Row-Level Security, KPI Dashboards, Schedule Refreshing 
 - **SQL**: Queries, Joins  
 - **Excel**: Pivot Tables, Power Query, Conditional formatting, Concatenation etc
@@ -71,103 +101,3 @@
 </p>
  
 ---
-
-
-
- ## 🚀 Tools & Technologies
-
-<p align="center" style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 30px; align-items: center;">
-
-  <span style="text-align: center;">
-    <div style="background-color:#F2C811; border-radius:50%; width:60px; height:60px; display:flex; justify-content:center; align-items:center; margin:auto;">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="35"/>
-    </div>
-    <sub><b>Power BI</b></sub>
-  </span>
-
-  <span style="text-align: center;">
-    <div style="background-color:#FF0000; border-radius:50%; width:60px; height:60px; display:flex; justify-content:center; align-items:center; margin:auto;">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/oracle.svg" width="35"/>
-    </div>
-    <sub><b>Oracle SQL</b></sub>
-  </span>
-
-  <span style="text-align: center;">
-    <div style="background-color:#29B5E8; border-radius:50%; width:60px; height:60px; display:flex; justify-content:center; align-items:center; margin:auto;">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="35"/>
-    </div>
-    <sub><b>Snowflake</b></sub>
-  </span>
-
-  <span style="text-align: center;">
-    <div style="background-color:#217346; border-radius:50%; width:60px; height:60px; display:flex; justify-content:center; align-items:center; margin:auto;">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" width="35"/>
-    </div>
-    <sub><b>Excel</b></sub>
-  </span>
-
-  <span style="text-align: center;">
-    <div style="background-color:#4479A1; border-radius:50%; width:60px; height:60px; display:flex; justify-content:center; align-items:center; margin:auto;">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg" width="35"/>
-    </div>
-    <sub><b>MySQL</b></sub>
-  </span>
-
-  <span style="text-align: center;">
-    <div style="background-color:#CC2927; border-radius:50%; width:60px; height:60px; display:flex; justify-content:center; align-items:center; margin:auto;">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" width="35"/>
-    </div>
-    <sub><b>Paginated Reports</b></sub>
-  </span>
-
-</p>
-
-
-## 🚀 Tools & Technologies
-
-<p align="center" style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-
-  <span style="text-align: center;">
-    <div style="background-color:#F2C811; border-radius:50%; width:60px; height:60px; display:flex; justify-content:center; align-items:center; margin:auto;">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="35"/>
-    </div>
-    <sub><b>Power BI</b></sub>
-  </span>
-
-  <span style="text-align: center;">
-    <div style="background-color:#FF0000; border-radius:50%; width:60px; height:60px; display:flex; justify-content:center; align-items:center; margin:auto;">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/oracle.svg" width="35"/>
-    </div>
-    <sub><b>Oracle SQL</b></sub>
-  </span>
-
-  <span style="text-align: center;">
-    <div style="background-color:#29B5E8; border-radius:50%; width:60px; height:60px; display:flex; justify-content:center; align-items:center; margin:auto;">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="35"/>
-    </div>
-    <sub><b>Snowflake</b></sub>
-  </span>
-
-  <span style="text-align: center;">
-    <div style="background-color:#217346; border-radius:50%; width:60px; height:60px; display:flex; justify-content:center; align-items:center; margin:auto;">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" width="35"/>
-    </div>
-    <sub><b>Excel</b></sub>
-  </span>
-
-  <span style="text-align: center;">
-    <div style="background-color:#4479A1; border-radius:50%; width:60px; height:60px; display:flex; justify-content:center; align-items:center; margin:auto;">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg" width="35"/>
-    </div>
-    <sub><b>MySQL</b></sub>
-  </span>
-
-  <span style="text-align: center;">
-    <div style="background-color:#CC2927; border-radius:50%; width:60px; height:60px; display:flex; justify-content:center; align-items:center; margin:auto;">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" width="35"/>
-    </div>
-    <sub><b>Paginated Reports</b></sub>
-  </span>
-
-</p>
-    
