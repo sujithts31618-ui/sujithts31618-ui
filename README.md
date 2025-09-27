@@ -73,35 +73,27 @@
 ---
 ## 🚀 Tools & Technologies
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/96/power-bi.png" width="50"/><br>
-      <sub>Power BI</sub>
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/en/7/7d/Microsoft_Power_Automate_%282020%29.svg" width="50"/><br>
-      <sub>Power Automate</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/96/oracle-logo.png" width="50"/><br>
-      <sub>Oracle SQL</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50"/><br>
-      <sub>Snowflake</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50"/><br>
-      <sub>Excel</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/mysql/4479A1" width="50"/><br>
-      <sub>MySQL</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="50"/><br>
-      <sub>Paginated Reports</sub>
-    </td>
-  </tr>
-</table>
+## 🚀 Tools & Technologies
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="50"/><br>
+  <sub>Power BI</sub>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/microsoft/PowerPlatformIcons/main/PowerAutomate/Color/PowerAutomate_96.png" width="50"/><br>
+  <sub>Power Automate</sub>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://img.icons8.com/color/96/oracle-logo.png" width="50"/><br>
+  <sub>Oracle SQL</sub>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50"/><br>
+  <sub>Snowflake</sub>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50"/><br>
+  <sub>Excel</sub>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="50"/><br>
+  <sub>MySQL</sub>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="50"/><br>
+  <sub>Paginated Reports</sub>
+</p>
