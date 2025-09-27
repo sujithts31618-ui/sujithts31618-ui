@@ -74,72 +74,47 @@
 ## 🚀 Tools & Technologies
 
 <p align="center">
+  
   <!-- Power BI -->
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
-  
-  <!-- Power Automate -->
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=Power%20Automate&logoColor=white" />
-  
-  <!-- Oracle SQL -->
-  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  
-  <!-- Snowflake -->
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  
-  <!-- Advanced Excel -->
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  
-  <!-- MySQL -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  
-  <!-- Paginated Reports (use SSRS since no direct logo) -->
-  <img src="https://img.shields.io/badge/Paginated%20Reports-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
-</p>
-
-________&&
-
-## 🚀 Tools & Technologies
-
-<p align="center">
-  <!-- Power BI -->
-  <div align="center" style="display:inline-block; margin:20px;">
-    <img src="https://img.icons8.com/color/512/power-bi.png" alt="Power BI" width="50" height="50"/><br>
+  <div align="center" style="display:inline-block; margin:15px;">
+    <img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="50" height="50"/><br>
     <sub>Power BI</sub>
   </div>
 
   <!-- Power Automate -->
-  <div align="center" style="display:inline-block; margin:20px;">
-    <img src="https://img.icons8.com/color/512/microsoft-power-automate-2020.png" alt="Power Automate" width="50" height="50"/><br>
+  <div align="center" style="display:inline-block; margin:15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Microsoft_Power_Automate.svg" alt="Power Automate" width="50" height="50"/><br>
     <sub>Power Automate</sub>
   </div>
 
   <!-- Oracle SQL -->
-  <div align="center" style="display:inline-block; margin:20px;">
-    <img src="https://img.icons8.com/color/512/oracle-logo.png" alt="Oracle SQL" width="50" height="50"/><br>
+  <div align="center" style="display:inline-block; margin:15px;">
+    <img src="https://img.icons8.com/color/96/oracle-logo.png" alt="Oracle SQL" width="50" height="50"/><br>
     <sub>Oracle SQL</sub>
   </div>
 
   <!-- Snowflake -->
-  <div align="center" style="display:inline-block; margin:20px;">
+  <div align="center" style="display:inline-block; margin:15px;">
     <img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="Snowflake" width="50" height="50"/><br>
     <sub>Snowflake</sub>
   </div>
 
   <!-- Excel -->
-  <div align="center" style="display:inline-block; margin:20px;">
-    <img src="https://img.icons8.com/color/512/microsoft-excel-2019.png" alt="Excel" width="50" height="50"/><br>
+  <div align="center" style="display:inline-block; margin:15px;">
+    <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Excel" width="50" height="50"/><br>
     <sub>Excel</sub>
   </div>
 
   <!-- MySQL -->
-  <div align="center" style="display:inline-block; margin:20px;">
+  <div align="center" style="display:inline-block; margin:15px;">
     <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="50" height="50"/><br>
     <sub>MySQL</sub>
   </div>
 
   <!-- Paginated Reports -->
-  <div align="center" style="display:inline-block; margin:20px;">
-    <img src="https://img.icons8.com/color/512/microsoft-sql-server.png" alt="Paginated Reports" width="50" height="50"/><br>
+  <div align="center" style="display:inline-block; margin:15px;">
+    <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" alt="Paginated Reports" width="50" height="50"/><br>
     <sub>Paginated Reports</sub>
   </div>
+
 </p>
