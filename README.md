@@ -102,25 +102,44 @@ ________&&
 
 <p align="center">
   <!-- Power BI -->
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="50" height="50"/>
-  
+  <div align="center" style="display:inline-block; margin:20px;">
+    <img src="https://img.icons8.com/color/512/power-bi.png" alt="Power BI" width="50" height="50"/><br>
+    <sub>Power BI</sub>
+  </div>
+
   <!-- Power Automate -->
-  <img src="https://cdn.simpleicons.org/powerautomate/0066FF" alt="Power Automate" width="50" height="50"/>
-  
+  <div align="center" style="display:inline-block; margin:20px;">
+    <img src="https://img.icons8.com/color/512/microsoft-power-automate-2020.png" alt="Power Automate" width="50" height="50"/><br>
+    <sub>Power Automate</sub>
+  </div>
+
   <!-- Oracle SQL -->
-  <img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle SQL" width="50" height="50"/>
-  
+  <div align="center" style="display:inline-block; margin:20px;">
+    <img src="https://img.icons8.com/color/512/oracle-logo.png" alt="Oracle SQL" width="50" height="50"/><br>
+    <sub>Oracle SQL</sub>
+  </div>
+
   <!-- Snowflake -->
-  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="Snowflake" width="50" height="50"/>
-  
+  <div align="center" style="display:inline-block; margin:20px;">
+    <img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="Snowflake" width="50" height="50"/><br>
+    <sub>Snowflake</sub>
+  </div>
+
   <!-- Excel -->
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" width="50" height="50"/>
-  
+  <div align="center" style="display:inline-block; margin:20px;">
+    <img src="https://img.icons8.com/color/512/microsoft-excel-2019.png" alt="Excel" width="50" height="50"/><br>
+    <sub>Excel</sub>
+  </div>
+
   <!-- MySQL -->
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="50" height="50"/>
-  
-  <!-- Paginated Reports (closest: SQL Server) -->
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="Paginated Reports" width="50" height="50"/>
+  <div align="center" style="display:inline-block; margin:20px;">
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="50" height="50"/><br>
+    <sub>MySQL</sub>
+  </div>
+
+  <!-- Paginated Reports -->
+  <div align="center" style="display:inline-block; margin:20px;">
+    <img src="https://img.icons8.com/color/512/microsoft-sql-server.png" alt="Paginated Reports" width="50" height="50"/><br>
+    <sub>Paginated Reports</sub>
+  </div>
 </p>
-
-
