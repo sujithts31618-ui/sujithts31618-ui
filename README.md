@@ -96,4 +96,31 @@
   <img src="https://img.shields.io/badge/Paginated%20Reports-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
 </p>
 
+________&&
+
+## 🚀 Tools & Technologies
+
+<p align="center">
+  <!-- Power BI -->
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="50" height="50"/>
+  
+  <!-- Power Automate -->
+  <img src="https://cdn.simpleicons.org/powerautomate/0066FF" alt="Power Automate" width="50" height="50"/>
+  
+  <!-- Oracle SQL -->
+  <img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle SQL" width="50" height="50"/>
+  
+  <!-- Snowflake -->
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="Snowflake" width="50" height="50"/>
+  
+  <!-- Excel -->
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" width="50" height="50"/>
+  
+  <!-- MySQL -->
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="50" height="50"/>
+  
+  <!-- Paginated Reports (closest: SQL Server) -->
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="Paginated Reports" width="50" height="50"/>
+</p>
+
 
