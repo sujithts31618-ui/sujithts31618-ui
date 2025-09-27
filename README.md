@@ -71,29 +71,29 @@
 </p>
  
 ---
-## 🚀 Tools & Technologies
-
-## 🚀 Tools & Technologies
+#### 🚀 Tools & Technologies
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/power-bi.png" width="50"/><br>
-  <sub>Power BI</sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="margin: 20px;">
+    <img src="https://img.icons8.com/color/96/power-bi.png" width="50"/><br>
+    <sub><b>Power BI</b></sub>
+  </span>
 
-  <img src="https://raw.githubusercontent.com/microsoft/PowerPlatformIcons/main/PowerAutomate/Color/PowerAutomate_96.png" width="50"/><br>
-  <sub>Power Automate</sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="margin: 20px;">
+    <img src="https://img.icons8.com/color/96/oracle-logo.png" width="50"/><br>
+    <sub><b>Oracle SQL</b></sub>
+  </span>
 
-  <img src="https://img.icons8.com/color/96/oracle-logo.png" width="50"/><br>
-  <sub>Oracle SQL</sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="margin: 20px;">
+    <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50"/><br>
+    <sub><b>Snowflake</b></sub>
+  </span>
 
-  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50"/><br>
-  <sub>Snowflake</sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="margin: 20px;">
+    <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50"/><br>
+    <sub><b>Excel</b></sub>
+  </span>
 
-  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50"/><br>
-  <sub>Excel</sub>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="50"/><br>
-  <sub>MySQL</sub>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="50"/><br>
-  <sub>Paginated Reports</sub>
-</p>
+  <span style="margin: 20px;">
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" width="50"/><br>
+    <sub><b>MySQL</b
