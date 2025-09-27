@@ -71,5 +71,29 @@
 </p>
  
 ---
+## 🚀 Tools & Technologies
+
+<p align="center">
+  <!-- Power BI -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
+  
+  <!-- Power Automate -->
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=Power%20Automate&logoColor=white" />
+  
+  <!-- Oracle SQL -->
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  
+  <!-- Snowflake -->
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  
+  <!-- Advanced Excel -->
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  
+  <!-- Paginated Reports (use SSRS since no direct logo) -->
+  <img src="https://img.shields.io/badge/Paginated%20Reports-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
+</p>
 
 
