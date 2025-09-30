@@ -40,6 +40,10 @@
       <sub>Oracle SQL</sub>
     </td>
     <td align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="50"/><br>
+  <sub>Azure Databricks</sub>
+</td>
+    <td align="center">
       <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50"/><br>
       <sub>Snowflake</sub>
     </td>
