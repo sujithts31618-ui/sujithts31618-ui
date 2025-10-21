@@ -10,14 +10,12 @@
 
 </p>
 
-💡 A passionate **Power BI Developer** with a knack for turning raw data into actionable insights.  
-📊 Certified **Microsoft PL-300 (Power BI Data Analyst Associate)**.  
-📊 Certified **Microsoft DP-900 (Azure Data Fundamentals Associate)**.  
+💡 A passionate **Power BI Developer** with a knack for turning raw data into actionable insights.    
 <p align="center">
 <p align="center">
   <img src="https://github.com/sujithts31618-ui/sujithts31618-ui/blob/main/IMG_20251022_024715.jpg" alt="Banner" width="100%" />
 </p>
-🌱 Currently learning **Advanced DAX**.  
+🌱 Currently learning **Microsoft Fabric**.  
 🚀 Excited about solving business problems through **data visualization, analytics**.  
 
 
