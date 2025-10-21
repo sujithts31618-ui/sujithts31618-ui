@@ -14,9 +14,10 @@
 📊 Certified **Microsoft PL-300 (Power BI Data Analyst Associate)**.  
 📊 Certified **Microsoft DP-900 (Azure Data Fundamentals Associate)**.  
 <p align="center">
+<p align="center">
   <img src="https://www.credly.com/badges/97414461-52a1-4a49-b00d-39e5a16a7870" alt="Power BI Data Analyst" width="150"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://www.credly.com/badges/microsoft-certified-azure-data-fundamentals" alt="Azure Data Fundamentals" width="150"/>
+  <img src="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-data-fundamentals" alt="Azure Data Fundamentals" width="150"/>
 </p>
 🌱 Currently learning **Advanced DAX**.  
 🚀 Excited about solving business problems through **data visualization, analytics**.  
